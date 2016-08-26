@@ -1,0 +1,3 @@
+If I am correct, that we can have a different MD file so that the project is implicit to where you posted a faux change (but the commit log is the thing) then I am about to beingworking
+
+I will use PUNCHPIN (TASKIN, PUNCHPROJECTIN?) to say I am switching to this (punchclock) project). This time I am going to add BACKLOG feature
