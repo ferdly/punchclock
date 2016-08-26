@@ -2,3 +2,4 @@ A commit is a commit. But will I be able to tell what file the commit was about 
 punchpin about to dig into the Duplicate Report
 resolved all duplicates
 punching out for recess
+Punching in for testing notes, q1
