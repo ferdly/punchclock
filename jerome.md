@@ -1,4 +1,3 @@
 - this is a list item to edit to indicate work on the Jerome Project for Cimbura.com
 - this is a list item to edit to indicate work on the Jerome Project for Cimbura.com
 - this is a list item to edit to indicate work on the Jerome Project for Cimbura.com
-- this is a list item to edit to indicate work on the Jerome Project for Cimbura.com
