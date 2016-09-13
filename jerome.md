@@ -1,3 +1,26 @@
-- this is a list item to edit to indicate work on the Jerome Project for Cimbura.com
-- this is a list item to edit to indicate work on the Jerome Project for Cimbura.com
-- this is a list item to edit to indicate work on the Jerome Project for Cimbura.com
+- Remove this Line to make a change to COMMIT
+ - View 'History' to see recent activity
+- Remove this Line to make a change to COMMIT
+ - View 'History' to see recent activity
+- Remove this Line to make a change to COMMIT
+ - View 'History' to see recent activity
+- Remove this Line to make a change to COMMIT
+ - View 'History' to see recent activity
+- Remove this Line to make a change to COMMIT
+ - View 'History' to see recent activity
+- Remove this Line to make a change to COMMIT
+ - View 'History' to see recent activity
+- Remove this Line to make a change to COMMIT
+ - View 'History' to see recent activity
+- Remove this Line to make a change to COMMIT
+ - View 'History' to see recent activity
+- Remove this Line to make a change to COMMIT
+ - View 'History' to see recent activity
+- Remove this Line to make a change to COMMIT
+ - View 'History' to see recent activity
+- Remove this Line to make a change to COMMIT
+ - View 'History' to see recent activity
+- Remove this Line to make a change to COMMIT
+ - View 'History' to see recent activity
+- Remove this Line to make a change to COMMIT
+ - View 'History' to see recent activity
