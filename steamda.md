@@ -3,3 +3,4 @@ Write Documentation Layouts for 'Admin New Summer' and 'Admin Close Summer', cou
 Initial Two Documentation Layouts
 Also, began Course Creation
 Write a CriticalKeys View for the Course API
+Contextual Filter by Week Nid, Include Raw Join Data for Conflict Checking
