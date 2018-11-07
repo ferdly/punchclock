@@ -10,3 +10,5 @@ Check Exception JSON (Logic, REST, Session, and Layout all work)
 Forgot to PUNCHIN approx 9:20 as per texts
 Applied Bootstrap 4 Logical Color Classes to BN_ and BB_ for _Primary _Sescondary and _Danger_
 Now I am going to work on the Multiple Build Courses based on Student Enroll Buttons JSON
+Lots of Progress making as many as 6 courses at a time
+More (as it occurred) work on BTL_Bootstrap theme
