@@ -7,3 +7,4 @@ Contextual Filter by Week Nid, Include Raw Join Data for Conflict Checking
 Workging through Admin OnRamp for Course Curriculum
 1. Exception JSON
 Check Exception JSON (Logic, REST, Session, and Layout all work)
+Forgot to PUNCHIN approx 9:20 as per texts
