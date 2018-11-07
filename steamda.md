@@ -8,3 +8,4 @@ Workging through Admin OnRamp for Course Curriculum
 1. Exception JSON
 Check Exception JSON (Logic, REST, Session, and Layout all work)
 Forgot to PUNCHIN approx 9:20 as per texts
+Applied Bootstrap 4 Logical Color Classes to BN_ and BB_ for _Primary _Sescondary and _Danger
