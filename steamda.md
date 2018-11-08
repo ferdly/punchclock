@@ -12,3 +12,4 @@ Applied Bootstrap 4 Logical Color Classes to BN_ and BB_ for _Primary _Sescondar
 Now I am going to work on the Multiple Build Courses based on Student Enroll Buttons JSON
 Lots of Progress making as many as 6 courses at a time
 More (as it occurred) work on BTL_Bootstrap theme
+Going to work on Validation
