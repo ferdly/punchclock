@@ -13,3 +13,5 @@ Now I am going to work on the Multiple Build Courses based on Student Enroll But
 Lots of Progress making as many as 6 courses at a time
 More (as it occurred) work on BTL_Bootstrap theme
 Going to work on Validation
+Okay, built Validation Data Management, but Validation STEP per se is just around the corner
+NEXT: Validation Step and Testing
