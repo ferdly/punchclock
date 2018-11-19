@@ -25,3 +25,5 @@ Forgot to Punch In
 Ready to BUILD Courses!
 Form and Form UI are perfect.
 Cooking with Gas for Curriculum/Course REST_POST
+Lots of good work Connecting to procHOOK_REST_Interface
+Documentation of Course Manage Fields on GDrive
