@@ -28,3 +28,4 @@ Cooking with Gas for Curriculum/Course REST_POST
 Lots of good work Connecting to procHOOK_REST_Interface
 Documentation of Course Manage Fields on GDrive
 Can't seem to stop -- make hay while the bug has you caught
+Most of the Course Attribute Source Dataset is completed
