@@ -29,3 +29,4 @@ Lots of good work Connecting to procHOOK_REST_Interface
 Documentation of Course Manage Fields on GDrive
 Can't seem to stop -- make hay while the bug has you caught
 Most of the Course Attribute Source Dataset is completed
+This and that early in the morning
