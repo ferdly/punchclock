@@ -7,3 +7,4 @@ FULL List of Commits (but limited by last sha eventually)
 Reclaim my office
 Yep I'm iusing my second monitor sittiing at the table
 Enhancements to PAUSEONERROR_PAUSE
+'The Firm' and Coding don't match but I got stuff done.
