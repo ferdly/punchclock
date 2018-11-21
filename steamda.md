@@ -32,3 +32,4 @@ Most of the Course Attribute Source Dataset is completed
 This and that early in the morning
 Lots of This and That - 'Ago' date contextual filter. Reanimated steamsbx
 Begin Testing POST_COURSE
+Good Progress. Got a little bogged down in PAUSEONERROR_PAUSE, but worth it
