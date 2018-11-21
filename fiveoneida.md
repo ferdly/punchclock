@@ -5,3 +5,4 @@ Can't help but fiddle
 Video was helpful, just helped me make sense of documentation
 FULL List of Commits (but limited by last sha eventually)
 Reclaim my office
+Yep I'm iusing my second monitor sittiing at the table
