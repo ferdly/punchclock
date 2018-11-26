@@ -10,3 +10,4 @@ Enhancements to PAUSEONERROR_PAUSE
 'The Firm' and Coding don't match but I got stuff done.
 Improved PAUSEONERROR_PAUSE is really quite good.
 Forgot to Punchin 
+Forgot to PunchIn (also, revisiting Summer Drop-Off stuff)
