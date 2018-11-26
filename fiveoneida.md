@@ -11,3 +11,5 @@ Enhancements to PAUSEONERROR_PAUSE
 Improved PAUSEONERROR_PAUSE is really quite good.
 Forgot to Punchin 
 Forgot to PunchIn (also, revisiting Summer Drop-Off stuff)
+Enough good stuff so far as ReFresh (remembering - and executing) ForceRefresh.
+Incorporating POE into CourseBuild
