@@ -37,3 +37,7 @@ procSWITCH_CourseCurriculum
 RESET_GET
 Cleaned up to gather the necessary JSON Constants (Clear_Cache)
 Now PunchOut
+Made "Offset" an Error for SPAN() for now.
+new vDate_Punctuate() function
+Set SPAN as Week
+Set DAYLIGHT as 11/15 Year
