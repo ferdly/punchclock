@@ -41,3 +41,8 @@ Made "Offset" an Error for SPAN() for now.
 new vDate_Punctuate() function
 Set SPAN as Week
 Set DAYLIGHT as 11/15 Year
+SourceDataset Build Working!
+Used separate ETL Process for COMM Data
+-- NOTE: It worked, Probably BAD that I ELT halfway upon Post and halfway upon Build
+-- -- but IIABDFI
+YaY! 
