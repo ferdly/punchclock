@@ -46,3 +46,4 @@ Used separate ETL Process for COMM Data
 -- NOTE: It worked, Probably BAD that I ELT halfway upon Post and halfway upon Build
 -- -- but IIABDFI
 YaY! 
+Extract-Transform- TESTING LOAD
