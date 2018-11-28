@@ -47,3 +47,5 @@ Used separate ETL Process for COMM Data
 -- -- but IIABDFI
 YaY! 
 Extract-Transform- TESTING LOAD
+Other than 500 successful ETL REST-POST Course
+classREST Enhanced 'DESTROY'
