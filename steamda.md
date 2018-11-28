@@ -1,3 +1,12 @@
+Successful (other than 500) POST Execution of new Course
+Added Logic for DESTROY:
+$$catch_destroy_exception_par for REST_RESULT 
+(and other blocks, but this was the engendering block)
+Nice Bootstrap4 ~'BB_asResponsePanel'
+Responses can go HERE:
+courses.built[0]responsestring
+courses.built[0]responsekind
+=
 Punching Back in. Confirm Required, use PostMan for Testing...
 ============BEING PREPENDING TO TOP FOR CHANGES============
 Punchcard for Steam Discovery Academy
