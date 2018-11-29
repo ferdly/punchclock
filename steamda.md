@@ -1,3 +1,5 @@
+Major overhaul of GET_ThreeKeys
+~
 Build REST POST COURSE Response UI.
 The Responses lead me to a number of Bugs 
 (improper fieldname, improper destination 'JSON key', yada, yada)
