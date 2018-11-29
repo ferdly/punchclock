@@ -1,3 +1,8 @@
+Build REST POST COURSE Response UI.
+The Responses lead me to a number of Bugs 
+(improper fieldname, improper destination 'JSON key', yada, yada)
+Now it is Working! (For 2018, that is...)
+~
 REST Codes JSON before final testing so that Feedback is useful.
 ~
 Successful (other than 500) POST Execution of new Course
