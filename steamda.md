@@ -1,3 +1,8 @@
+Really worked through the problems with the Refresh Script.
+Use of $$catch_direct_refresh_entityid_par 
+to match the $$session_exception_curriculum_course_json
+Either UNSET (and Start Over) or Adjust $$session_exception_curriculum_course_json upon success
+~
 Major overhaul of GET_ThreeKeys
 ~
 Build REST POST COURSE Response UI.
