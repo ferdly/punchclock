@@ -1,3 +1,4 @@
++Revisit CurrCrs Update Check, then on to 2019!
 Really worked through the problems with the Refresh Script.
 Use of $$catch_direct_refresh_entityid_par 
 to match the $$session_exception_curriculum_course_json
