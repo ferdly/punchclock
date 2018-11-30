@@ -1,3 +1,8 @@
++Cleaned up the Launch (Course Curr Exceptions)
+Cleaned up REST_GET
+Cleaned Up FORCE_REFRESH
+~reset_weeks_array = PPASSIVE
+~reset_locationss_array = PPASSIVE
 +Revisit CurrCrs Update Check, then on to 2019!
 Really worked through the problems with the Refresh Script.
 Use of $$catch_direct_refresh_entityid_par 
