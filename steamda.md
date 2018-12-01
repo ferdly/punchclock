@@ -1,3 +1,4 @@
++Forgot to PunchIn. Approx 7pm
 +Refresh Curriculum (7777 or 9999 by status instead of Season)
 Refresh Course Season Matters and dynamic from Year and StartDate (validated)
 Removed Prompts for 2018 (unless CMMD_CNTRL)
