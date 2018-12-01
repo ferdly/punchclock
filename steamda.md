@@ -1,3 +1,10 @@
++Refresh Curriculum (7777 or 9999 by status instead of Season)
+Refresh Course Season Matters and dynamic from Year and StartDate (validated)
+Removed Prompts for 2018 (unless CMMD_CNTRL)
+Re-Tooled Course Form JSON to accommodate 
+Season week only
+Status week only
+Sort by ttype_id DESC for week
 +Locations Done
 Also 
 Reset 'State' Weeks & Locations
