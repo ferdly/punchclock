@@ -1,3 +1,4 @@
++1242 Art Lab 6/10/219 for K-2 at CCS REST_POST Successful
 +Add Real Course by Slack (hopefully Catholic)
 +Forgot to PunchIn. Approx 7pm
 +Refresh Curriculum (7777 or 9999 by status instead of Season)
