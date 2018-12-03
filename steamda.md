@@ -1,3 +1,9 @@
++All is working.
+$$POE_beepcount is a Pain without Get(PauseOnError) But I am glad I have it.
+Dynamic assessment of Non-Specified SubScripts too, but still glad I have it.
+Good Visual Response
+Good JSONlog Creations
+Perhaps: $direct_entityid_par should be evaluated to Exit Loop if Full, but the numbers aren't sufficient yet. Maybe over 1000.
 +forgot to PUNCHIN
 +Rebuilt 
 procClearCache_ (not much)
