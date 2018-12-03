@@ -1,3 +1,20 @@
++One: Cleaned Up POE
+One: No POE
+Two: No POE
+Minor UI things, and all that beeping when Not POE...
+... But mostly GREAT!
+SWITCH
+X_545
+procHOOK_RestInterface
+X_Line 9
+X_Line 13
+X_Line 35 NOT ZXZ
+X_Line 70 ditto
+X_Line 150
+Build_REST_POST
+X_Line 284
+devel_POE_CALLSTACK ( "AllSubscriptMustBeSpecified" )
+\_ Major Improvement to devel_POE_CALLSTACK ( pPromptForUnspecifiedScripts) only Yes = Yes
 +RoomNumber, RoomTitle More Testing
 +All is working.
 $$POE_beepcount is a Pain without Get(PauseOnError) But I am glad I have it.
