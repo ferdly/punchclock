@@ -1,3 +1,6 @@
++New 'Course List' Tab for ‘Steam Data’ in Drupal. 
+Exposed Filters for Trimester, Season (year), and Location.
+Good listing of the Course with an 'edit' link.
 +Course List DEVEL
 +Worked with Mike, Lots of Bug Testing and Work
 Disabled a LOT of the PauseOnError logic within.
