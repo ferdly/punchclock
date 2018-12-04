@@ -1,3 +1,7 @@
++Worked with Mike, Lots of Bug Testing and Work
+Disabled a LOT of the PauseOnError logic within.
+Good Feature to Turn ON and Turn OFF Subscripts
+BUG: If NO Instantiation it Prompts - BUT that could be a lingering POP_CALLBACK_dep
 +Tweak Course REST POST and Meeting.
 +One: Cleaned Up POE
 One: No POE
