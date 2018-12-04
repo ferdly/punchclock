@@ -1,3 +1,4 @@
++PunchIn for new work (according to brainstorm below)
 +PunchOut for 1 day credit
 +Initial Commit
 I've already done a good hunk of work without tracking it (or not tracking it properly.
