@@ -1,3 +1,9 @@
++Retooled the Whole thing as per PunchClock Git Initial Commit
+Project Table ('everyeight' being one)
+Library Table (individual Modules [themes, other?])
+Package Table (group of Modules expected to work togher [Meida Library being first, before it went to Core]
+Data Table (a library of [usually drush] gathered data [usually JSON] that work to Manage the Projects, Library, Packages)
+Item Table (a Big Fat JOIN Table of the other 4)
 +PunchIn for new work (according to brainstorm below)
 +PunchOut for 1 day credit
 +Initial Commit
