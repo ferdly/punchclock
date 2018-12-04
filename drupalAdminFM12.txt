@@ -1,0 +1,11 @@
++Initial Commit
+I've already done a good hunk of work without tracking it (or not tracking it properly.
+Keep track of all Modules for All Projects dynamically via Drush Commands (best via JSON)
+Maybe Fields for each of these reports that can hold the most recent JSON
+Maybe logic that writes the file to a Stamped copy of the JSON
+And then Dynamically Write that to a Gold filename (see below) maybe in its own Directory for dynamic feeding.
+drupal Key (same as MD5 UNO Password - etc)
+data Key (should be a table)
+NOT 'report' since that is what comes from the 'data'
+dataKey__drupalKey_YYYYMMDDHHIISS.json
+dataKey_drupalKey.json (GOLD)
