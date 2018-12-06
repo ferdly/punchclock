@@ -1,3 +1,8 @@
++Nice UI (Terminal Field)
+Confirm Create Directories Code
+Good Fields for Data
+More work with OFWO Scripts
+Beginning of thinking for Items records
 +Took me where I didn't expect yesterday, but really good. Let's PunchIn
 +Lots of good 'Base' work, OnFirstWindowOpen Trigger etc. Checking Directories, touch touch.txt, $$session_variables for $$base_path and $$filemaker_fileextension
 +Harvest for previous Commit the data to the Library
