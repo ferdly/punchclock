@@ -1,3 +1,4 @@
++Took me where I didn't expect yesterday, but really good. Let's PunchIn
 +Lots of good 'Base' work, OnFirstWindowOpen Trigger etc. Checking Directories, touch touch.txt, $$session_variables for $$base_path and $$filemaker_fileextension
 +Harvest for previous Commit the data to the Library
 +Retooled the Whole thing as per PunchClock Git Initial Commit
