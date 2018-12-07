@@ -1,3 +1,7 @@
++Okay!
+Mechanism to gather INSTANTIATE/CLEAR_CACHE ($deve->SKIP) JSON for all 
+Kind/Data Joins
+Pretty Big, Actual INSTANTIATE/CLEAR_CACHE should be pretty easy.
 +PunchIn 'Cooking with Gas!'
 +Forgot to PunchOut, so Now giving myself 3hrs, it was more, but...
 +Make a Dedicated Proc to Write to (two) drush json files
