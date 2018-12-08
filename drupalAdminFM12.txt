@@ -1,3 +1,4 @@
++Little bit before MailChimp
 +Okay!
 Mechanism to gather INSTANTIATE/CLEAR_CACHE ($deve->SKIP) JSON for all 
 Kind/Data Joins
