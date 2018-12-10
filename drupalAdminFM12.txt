@@ -1,3 +1,7 @@
++It is working. 
+The UNIX mkdir (original) 
+And the first core-status Project/Drush!
+Everything is downhill from here, yes?
 +Back at it with resolving the Resolve Fieldnames within the Singleton
 +More Good Work.
 Unexpectedly a MAJOR STEP FORWARD so far as 
