@@ -1,3 +1,9 @@
++More Good Work.
+Unexpectedly a MAJOR STEP FORWARD so far as 
+"Object Relational Mapping" (Quasi-FM)
+Externally Called Script to Ensure All Fields of the Target Table have been accounted for.
+IF NOT: It is a User-Interface to Select whether to Resolve, Skip or Pending!
+Worked like a charm just now. Ready to begin again with the Singleton Devel & Testing
 +Punchin Back to Data Items Records
 +SwitchToMailChimp
 +Little bit before MailChimp
