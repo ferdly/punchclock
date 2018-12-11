@@ -1,3 +1,10 @@
++Cleaned up the JSON Command Singleton
+Specifically:
+Minimal: kind,kindid, dataid, (itemid if cc)
+Set ID and KindMachineName to JSON (all should be renamed at once to 'ProjectJSONdata')
+Set ID and DataMachineName to JSON
+All other datapoints from the JSON
+string parsing all from $kind_json and $data_json
 +Fine Tune Singleton Script
 +It is working. 
 The UNIX mkdir (original) 
