@@ -1,3 +1,4 @@
++Fine Tune Singleton Script
 +It is working. 
 The UNIX mkdir (original) 
 And the first core-status Project/Drush!
