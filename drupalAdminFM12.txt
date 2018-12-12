@@ -1,3 +1,4 @@
++Forgot to PunchIn precise time because of folder creation
 +Cleaned up the JSON Command Singleton
 Specifically:
 Minimal: kind,kindid, dataid, (itemid if cc)
