@@ -1,3 +1,8 @@
++Renamed {Table}MachineName to {Table}DataJSON
+designTableLayoutDiff()
+designLayoutTableDiff()
+implemented Button to Fun on any Layout NOT Named the same as the LayoutTableName where the Table includes TempText_asReplaceString
+Cleaned Up Library
 +Forgot to PunchIn precise time because of folder creation
 +Cleaned up the JSON Command Singleton
 Specifically:
