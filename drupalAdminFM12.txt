@@ -1,3 +1,4 @@
++Continue Table Cleanup
 +Renamed {Table}MachineName to {Table}DataJSON
 designTableLayoutDiff()
 designLayoutTableDiff()
