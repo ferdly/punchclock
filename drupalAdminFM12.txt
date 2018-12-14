@@ -1,3 +1,12 @@
++Imported LogJSON table from SteamDA
+Adjusted with Keys and esoteric attributes
+Build Esoteric Relationships
+Wrote Skeleton Code:
+Instantiate_LogJSON_pItemID
+LogicAction_LogJSON_pItemID
+SWITCH_LogicAction
+core-status (WRITE DATA)
+pm-list (WRITE DATA)
 +Back at it.
 +PunchOut temporarily
 +Reset {Table}DataJSON based on JSON
