@@ -1,3 +1,4 @@
++Reset {Table}DataJSON based on JSON
 +Full Cleanup of all Data Types (except Item because it's so different)
 Added Duplicate Field Count button.
 Good work, even though pedestrian
