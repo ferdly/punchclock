@@ -1,3 +1,4 @@
+Couldn't sleep so I read about a lot about Dashboard Pages and found a Video to watch and now I'm going to watch that video
 - PUNCHOUT ready for renaming the Summer Application button
 I'll try a soft-return for extended comment
 - for loop failure BECAUSE need to rename button by concatenation
